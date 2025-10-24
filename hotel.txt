@@ -4,3 +4,4 @@ open the room
 enter in the room
 then magic
 boom
+broom
